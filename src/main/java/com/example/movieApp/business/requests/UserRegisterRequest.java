@@ -27,7 +27,7 @@ public class UserRegisterRequest {
     private String email;
 	@NotNull
 	@NotEmpty
-	@Size(min = 3 , max =30)
+	@Size(min = 8 , max =30)
 	private String password;
  
 
