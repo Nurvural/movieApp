@@ -45,12 +45,12 @@ public class User {
 	private String lastName;
 
 	@Email(message = "Email alanı email formatına uymalıdır")
-	@Size(min = 8 , max =30)
 	@Column(name = "email")
 	private String email;
 	
 	@NotNull
 	@NotEmpty
+	@Size(min = 8 , max =30)
 	@Column(name = "password")
 	private String password;
 	
