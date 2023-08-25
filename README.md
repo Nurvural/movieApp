@@ -1,8 +1,2 @@
 # movieApp
-Proje Acıklaması: Film İzleme Listesi Uygulaması, kullanıcıların izlemek istedikleri filmleri kaydedebilecekleri ve takip edebilecekleri basit bir web uygulamasıdır. Kullanıcılar,film adını, turunu ve izleme durumunu belirtebilirler.
-
-Kullanıcı Yonetimi: Kullanıcılar kayıt olabilir, giris yapabilir ve cıkıs yapabilir. Kullanıcılar profil bilgilerini duzenleyebilir. Film Islemleri: Kullanıcılar yeni filmler ekleyebilir, duzenleyebilir ve silebilir. Filmler, ad, tur ve izleme durumu gibi temel bilgilere sahip olmalıdır. Kullanıcılar filmleri izlendi, izlenmedi veya favori olarak isaretleyebilir.
-
-Listeleme ve Sıralama:Kullanıcılar, ekledikleri filmleri listeleyebilir ve sıralayabilir.Filmler,izleme durumu veya eklenme tarihine gore sıralanabilir.
-
-Arama ve Filtreleme: Kullanıcılar, film adı veya turune gore filmleri arayabilir. Kullanıcılar,izlenen veya izlenmeyen filmleri filtreleyebilir.
+The Film List Application is a web application where users can create and edit their movie watchlists, mark their viewing status, and easily find movies by searching. Users can register, log in, add, and edit movies. They can quickly locate and filter watched or unwatched films.
